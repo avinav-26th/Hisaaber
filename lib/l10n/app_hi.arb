@@ -1,0 +1,59 @@
+{
+    "@@locale": "hi",
+    "appName": "हिसाबer",
+    "@appName": {
+        "description": "The name of the application."
+    },
+    "scanButton": "स्कैन करें",
+    "@scanButton": {
+        "description": "Text for the main button that opens the camera scanner."
+    },
+    "recentHisaab": "हाल का हिसाब",
+    "@recentHisaab": {
+        "description": "Heading for the list of most recently saved bills."
+    },
+    "history": "इतिहास",
+    "@history": {
+        "description": "Text for the button or title of the bill history screen."
+    },
+    "total": "कुल",
+    "@total": {
+        "description": "Text for the total bill amount."
+    },
+    "items": "सामान",
+    "@items": {
+        "description": "Column or list heading for bill items."
+    },
+    "price": "कीमत",
+    "@price": {
+        "description": "Column or list heading for item prices."
+    },
+    "confirm": "पुष्टि",
+    "@confirm": {
+        "description": "Text for the button to confirm the scanned bill."
+    },
+    "name": "नाम",
+    "@name": {
+        "description": "Label for the text input field for the customer's name."
+    },
+    "done": "हो गया",
+    "@done": {
+        "description": "Text for the button to finish and save the bill."
+    },
+    "login": "लॉग इन",
+    "@login": {
+        "description": "Title or button text for the login screen."
+    },
+    "mobileNumber": "मोबाइल नंबर",
+    "@mobileNumber": {
+        "description": "Label for the mobile number input field."
+    },
+    "otp": "ओटीपी",
+    "@otp": {
+        "description": "Label for the OTP input field."
+    },
+    "verify": "पुष्टि करें",
+    "@verify": {
+        "description": "Button text to verify the OTP."
+    }
+}

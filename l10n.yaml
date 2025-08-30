@@ -1,0 +1,5 @@
+# In l10n.yaml (at the project root)
+
+arb-dir: lib/l10n/
+template-arb-file: app_en.arb
+output-localization-file: app_localizations.dart

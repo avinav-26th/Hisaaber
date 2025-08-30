@@ -1,0 +1,59 @@
+{
+    "@@locale": "en",
+    "appName": "Hisaaber",
+    "@appName": {
+        "description": "The name of the application."
+    },
+    "scanButton": "Scan",
+    "@scanButton": {
+        "description": "Text for the main button that opens the camera scanner."
+    },
+    "recentHisaab": "Recent Hisaab",
+    "@recentHisaab": {
+        "description": "Heading for the list of most recently saved bills."
+    },
+    "history": "History",
+    "@history": {
+        "description": "Text for the button or title of the bill history screen."
+    },
+    "total": "Total",
+    "@total": {
+        "description": "Text for the total bill amount."
+    },
+    "items": "Items",
+    "@items": {
+        "description": "Column or list heading for bill items."
+    },
+    "price": "Price",
+    "@price": {
+        "description": "Column or list heading for item prices."
+    },
+    "confirm": "Confirm",
+    "@confirm": {
+        "description": "Text for the button to confirm the scanned bill."
+    },
+    "name": "Name",
+    "@name": {
+        "description": "Label for the text input field for the customer's name."
+    },
+    "done": "Done",
+    "@done": {
+        "description": "Text for the button to finish and save the bill."
+    },
+    "login": "Login",
+    "@login": {
+        "description": "Title or button text for the login screen."
+    },
+    "mobileNumber": "Mobile Number",
+    "@mobileNumber": {
+        "description": "Label for the mobile number input field."
+    },
+    "otp": "OTP",
+    "@otp": {
+        "description": "Label for the OTP input field."
+    },
+    "verify": "Verify",
+    "@verify": {
+        "description": "Button text to verify the OTP."
+    }
+}

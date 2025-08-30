@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629205115980",
+    "project_id": "hisaaber-dd32c",
+    "storage_bucket": "hisaaber-dd32c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629205115980:android:ed494f5125626a9ae8c0e9",
+        "android_client_info": {
+          "package_name": "com.avico.hisaaber"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzotqFhRI4yMf_PsA_MeB_8xXL4Y-Uhk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
