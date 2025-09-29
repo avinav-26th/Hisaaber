@@ -21,6 +21,7 @@ This app allows a shopkeeper to simply take a picture of an item-price list. Usi
 * **📌 Pin & Dismiss:** Users can pin important bills to the top of their recent list and swipe to hide others.
 * **🔄 Pull-to-Refresh:** A familiar pull-to-refresh gesture on the home screen to update the list.
 
+<!-- 
 ## 📱 App Screenshots
 
 | Splash Screen      | Login Screen       | Home Screen        |
@@ -30,21 +31,23 @@ This app allows a shopkeeper to simply take a picture of an item-price list. Usi
 | *[Add Screenshot]* | *[Add Screenshot]* | *[Add Screenshot]* |
 |     **History** |   **Bill Details** |   **Edit Profile** |
 | *[Add Screenshot]* | *[Add Screenshot]* | *[Add Screenshot]* |
+-->
 
 ## 💻 Tech Stack & Packages
 
 * **Framework:** Flutter
 * **State Management:** Provider
 * **Local Database:** Hive
-* **Backend Services (Optional/Dummy):**
+* **Backend Services:**
     * Firebase (Firestore for cloud backup)
     * Dummy Phone Authentication (simulated locally)
-* **OCR Service:** OCR.space API
+* **OCR Service:** OCR.space API & Google ML Kit
 * **Key Packages:**
     * `camera`: For the custom camera interface.
     * `image_cropper`: For cropping captured images.
     * `image`: For advanced image pre-processing.
     * `http`: For making API calls to the OCR service.
+    * `google_ml_kit`: For the back-up OCR function
     * `pinput`: For the styled OTP input field.
     * `flutter_native_splash`: For the native splash screen.
     * `flutter_launcher_icons`: For generating the app launcher icon.
@@ -96,3 +99,6 @@ To get a local copy up and running, follow these simple steps.
     ```
 
 ---
+
+### Disclosure
+For the current project version, it cannot provide results with 100% accuracy, because the good OCR models (like the Google Vision API) are paid features and due to budget issues, other less accurate OCR services have been used.
